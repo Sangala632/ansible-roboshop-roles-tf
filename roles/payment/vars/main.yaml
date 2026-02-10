@@ -1,0 +1,4 @@
+CART_HOST: cart.backend-{{ env }}.hellodevsecops.spacee
+USER_HOST: user.backend-{{ env }}.hellodevsecops.space
+RABBITMQ_HOST: rabbitmq-{{ env }}.hellodevsecops.space
+RABBITMQ_PASSWORD: roboshop123

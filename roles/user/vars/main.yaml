@@ -1,0 +1,2 @@
+REDIS_HOST: redis-{{ env }}.hellodevsecops.space
+MONGODB_HOST: mongodb-{{ env }}.hellodevsecops.space

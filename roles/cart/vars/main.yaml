@@ -1,0 +1,2 @@
+CATALOGUE_HOST: catalogue.backend-{{ env }}.hellodevsecops.space
+REDIS_HOST: redis-{{ env }}.hellodevsecops.space

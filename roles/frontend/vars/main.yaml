@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.backend-{{ env }}.hellodevsecops.space
+USER_HOST: user.backend-{{ env }}.hellodevsecops.space
+CART_HOST: cart.backend-{{ env }}.hellodevsecops.space
+SHIPPING_HOST: shipping.backend-{{ env }}.hellodevsecops.space
+PAYMENT_HOST: payment.backend-{{ env }}.hellodevsecops.space
