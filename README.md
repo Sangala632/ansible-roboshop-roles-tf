@@ -1,5 +1,4 @@
 <h1>Roboshop VM Architecture</h1>
-![Architecture Diagram](roboshop-infra-dev.drawio.svg)
 
 # Ansible RoboShop Roles
 
